@@ -10,6 +10,9 @@ payload:
   
   # > Dler Cloud
   - DOMAIN-SUFFIX,dler.cloud
+  
+    # > pub.dev
+  - DOMAIN,pub.dev
 
   # > Apple CDN
   - PROCESS-NAME,storedownloadd
